@@ -5,3 +5,6 @@
 - ini perubahan commit 1 dari branch dev
 - ini perubahan commit 2 dari branch dev
 - ini perubahan commit 3 dari branch dev
+
+# Code reviews
+- perubahan 1 oleh kolaborator
